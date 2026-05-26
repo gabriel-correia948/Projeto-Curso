@@ -13,6 +13,7 @@ header {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-self: center;
 }
 
 header .headerTopo {
@@ -29,7 +30,6 @@ header .headerMenu ul {
   list-style: none;
   display: flex;
   justify-content: space-around;
-  gap: 5%;
 }
 
 header .headerMenu li {
@@ -68,3 +68,44 @@ footer .credenciais h1 {
   color: #fff;
   font-size: 23px;
 }
+
+.disciplinas{
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #e2e2e2;
+  border: 1px solid #c2c2c2;
+  border-radius: 5px;
+}
+
+.disciplinas .headerDisciplinas{
+  height: 90px;
+}
+
+.disciplinas .headerDisciplinas h1{
+  width: 1000%;
+  margin-left: 40px;
+  font-size: 2em;
+  text-align: left;
+}
+
+.disciplinas .contenDisciplinas{
+  width: 100%;
+}
+
+.disciplinas .contenDisciplinas article{
+  display: flex;
+  width: 25%;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.disciplinas .contenDisciplinas article img{
+
+}
+
+.disciplinas .contenDisciplinas article h2{
+
+}
+
