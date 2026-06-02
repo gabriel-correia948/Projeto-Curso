@@ -7,6 +7,7 @@ const dadosDisciplinasTecnicas = [
         serie: '1° A',
         descricao: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
         link_imagem: 'https://placehold.co/200x100',
+
     },
     {
         id: 2,
@@ -16,6 +17,7 @@ const dadosDisciplinasTecnicas = [
         serie: '1° A',
         descricao: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
         link_imagem: 'https://placehold.co/200x100',
+
     },
     {
         id: 3,
@@ -25,6 +27,7 @@ const dadosDisciplinasTecnicas = [
         serie: '1° A',
         descricao: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
         link_imagem: 'https://placehold.co/200x100',
+
     },
-]
-export default dadosDisciplinasTecnicas
+];
+export default dadosDisciplinasTecnicas;

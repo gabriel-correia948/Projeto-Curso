@@ -1,4 +1,5 @@
 import dadosDisciplinasTecnicas from '../dados/dadosDisciplinasTecnicas'
+
 function DisciplinasTecnicas(){
     return(
         <section className='disciplina'>

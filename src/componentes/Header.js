@@ -14,11 +14,11 @@ function Header(){
                 <li><Link to= "/disciplinasCurriculares">Disciplina Curricular</Link></li>
                 <li><Link to= "/disciplinasTecnicnicas"> DisciplinaS Técnicas</Link></li>
                 <li><Link to= "/equipe">Equipe</Link></li>
-                <li><Link to= "/ListarDisciplinaCurricular">ListarDisciplinaCurricular</Link></li>
-                <li><Link to= "/ListarDisciplinaTecnica">ListarDisciplinaTecnica</Link></li>
+       
             </ul>
         </nav>
-        </header>
+
+    </header>
 
     )
 }
