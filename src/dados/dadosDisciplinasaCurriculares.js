@@ -4,19 +4,19 @@ const dadosDisciplinasCurriculares = [
         nome: 'Biologia',
         sigla: 'BIO',
         ano: 2025,
-        serie: '1° A',
-        descricao: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-        link_imagem: 'https://placehold.co/200x100',
+        serie: '1°A',
+        descricao: 'xxxxxxxxxxxxxxxxx',
+        link_imagem: 'https:/placehold.co/200x100',
 
     },
     {
         id: 2,
-        nome: 'Arte',
-        sigla: 'ATR',
+        nome: 'Arte  ',
+        sigla: 'ART',
         ano: 2025,
-        serie: '1° A',
-        descricao: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-        link_imagem: 'https://placehold.co/200x100',
+        serie: '1°A',
+        descricao: 'xxxxxxxxxxxxxxxxx',
+        link_imagem: 'https:/placehold.co/200x100',
 
     },
     {
@@ -24,40 +24,44 @@ const dadosDisciplinasCurriculares = [
         nome: 'Geografia',
         sigla: 'GEO',
         ano: 2025,
-        serie: '1° A',
-        descricao: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-        link_imagem: 'https://placehold.co/200x100',
+        serie: '1°A',
+        descricao: 'xxxxxxxxxxxxxxxxx',
+        link_imagem: 'https:/placehold.co/200x100',
 
     },
+
     {
         id: 4,
-        nome: 'História',
+        nome: 'Historia',
         sigla: 'HIS',
         ano: 2025,
-        serie: '1° A',
-        descricao: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-        link_imagem: 'https://placehold.co/200x100',
+        serie: '1°A',
+        descricao: 'xxxxxxxxxxxxxxxxx',
+        link_imagem: 'https:/placehold.co/200x100',
 
     },
+
     {
-    id: 5,
-        nome: 'Matemática',
+        id: 5,
+        nome: 'Matematica',
         sigla: 'MAT',
         ano: 2025,
-        serie: '1° A',
-        descricao: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-        link_imagem: 'https://placehold.co/200x100',
-    
+        serie: '1°A',
+        descricao: 'xxxxxxxxxxxxxxxxx',
+        link_imagem: 'https:/placehold.co/200x100',
+
     },
+
     {
         id: 6,
-            nome: 'Português',
-            sigla: 'PORT',
-            ano: 2025,
-            serie: '1° A',
-            descricao: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
-            link_imagem: 'https://placehold.co/200x100',
-        
-        },
+        nome: 'Portugues',
+        sigla: 'PORT',
+        ano: 2025,
+        serie: '1°A',
+        descricao: 'xxxxxxxxxxxxxxxxx',
+        link_imagem: 'https:/placehold.co/200x100',
+    },
+
+
 ];
-export default dadosDisciplinasCurriculares;
+export default dadosDisciplinasCurriculares
